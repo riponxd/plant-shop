@@ -4,7 +4,6 @@ A modern React-based online plant shop featuring product listings, cart manageme
 
 ## Demo
 
-[Live Demo](https://github.com/ShahriarTbc/plant-shop)
 
 ## Features
 
